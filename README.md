@@ -1,4 +1,4 @@
-# Gatewayz Banking Application - Core Java Project
+# Gatewayz Banking Application - Java Project
 
 ## 📋 Project Overview
 A comprehensive banking application demonstrating core Java OOP concepts including **Encapsulation**, **Polymorphism**, **Interfaces**, and **File I/O**.
