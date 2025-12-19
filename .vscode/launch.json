@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch BankingAppFX",
+            "request": "launch",
+            "mainClass": "com.banking.BankingAppFX",
+            "vmArgs": "--module-path /Users/srivardhanjakkani/Desktop/code+/java/javafx-sdk-21.0.9/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base"
+        },
+        {
+            "type": "java",
+            "name": "Launch BankingApp (Console)",
+            "request": "launch",
+            "mainClass": "com.banking.BankingApp"
+        }
+    ]
+}
